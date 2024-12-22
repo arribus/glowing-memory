@@ -7,3 +7,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## `make a list`
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] This item is complete
+- [ ] This item is not complete
